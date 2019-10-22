@@ -1,0 +1,27 @@
+# Lead me to your Pihole
+# --------------------------------------------
+# Domains die einem oder mehreren Newsseiten zugeordnet sind.
+# Dies ist eine von der Community gepflegte Domainlist
+# Wenn Sie diese Domains blocken wollen, importieren Sie 
+# diese Liste einfach in Ihr Pi-Hole.
+# -------------------------------------------
+
+express.de
+rp-online.de
+ftd.de
+zeit.de
+handelsblatt.com
+computerbild.de
+pcwelt.de
+faz.net
+stern.de
+sueddeutsche.de
+n-tv.de
+focus.de
+welt.de
+kicker.de
+heise.de
+sport1.de
+chip.de
+bild.de
+spiegel.de
