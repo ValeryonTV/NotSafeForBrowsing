@@ -1,0 +1,20 @@
+# Lead me to your Pihole
+# --------------------------------------------
+# Domains die einem oder mehreren Portalen zugeordnet sind, die Medien verteilen.
+# Dies ist eine von der Community gepflegte Domainlist
+# Wenn Sie diese Domains blocken wollen, importieren Sie 
+# diese Liste einfach in Ihr Pi-Hole.
+# -------------------------------------------
+
+movie4K.to
+solarmovie.is
+losmovies.me
+vumoo.ch
+primewire.ag
+zmovie.co
+movie25.com
+coolmoviezone.org
+filmclub.org
+mooviemaniac.net
+123movies.to
+ 
