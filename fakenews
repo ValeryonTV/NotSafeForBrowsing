@@ -1,0 +1,203 @@
+# Lead me to your Pihole
+# --------------------------------------------
+# Domains von Fake News Seiten
+# Dies ist eine von der Community gepflegte Domainlist
+# Wenn Sie diese Domains blocken wollen, importieren Sie 
+# diese Liste einfach in Ihr Pi-Hole.
+# -------------------------------------------
+
+# Quelle: https://en.wikipedia.org/wiki/List_of_fake_news_websites
+# --------------------------
+24sevendailynews.com
+360news.live
+aboutdu30.info
+akoy-pilipino.blogspot.com		[146]
+aljazeeranews-tv.com	Masquerades as Al Jazeera. Legitimate url is https://www.aljazeera.com	[141]
+allthingspinoy.com	"www.allthingspinoy.com does not make any warranties about the completeness, reliability and accuracy of this information.". Now down.	[149][150][146]
+angatpilipino.info	404 error	[151]
+asianpolicy.press	"...The owner of this blog makes no representations as to the accuracy or completeness of any information on this website...". Down again with 404 error.	[149][146]
+asensopinoy.info	Front page blank, contains JavaScript.	[152][153]
+astigtayopinoy.altervista.org	Account suspended	[154]
+bacolod.altervista.org	Account suspended	[155]
+balitaonline.xyz		[148]
+balitangpanglahat.info	Domain parked/cybersquatted	[156]
+balitangpinoy.ga	404 error	[157]
+du30.altervista.org	Site is up, but front page is an empty blog.	[155]
+pinoypolitics.altervista.org	Biggest traffic generators on social media: Pinoy Republic, Pres. Rody Duterte News Global and Pilipinas Trending. Account suspended.	[158]
+latestnewz.xyz	404 Error	[148]
+breaking-bbc.co.uk	Masquerades as BBC. Proper URL is https://www.bbc.com. Domain suspended.	[151]
+breezynetwork.info	Down	[159]
+casterph.xyz	404 error	[148]
+citizenexpress.today		[160]
+classifiedtrends.net	Down. Contains JavaScript.	[149][161][146]
+cnn-channel.com	Masquerades as CNN. Legitimate URLs are cnn.com, edition.cnn.com (for CNN International), and cnnphilippines.com. Down.	[151]
+dailyartikulo.info	Traffic largely from The Filipino News, Ferdinand Emmanuel Edralin Marcos and The News Wire social media accounts. Same blog template and theme as DailyInsights.	[162]
+dailyfilipino.altervista.org		[146]
+dailyfilipinews.blogspot.com	Empty.	[146]
+dailyinsights.today	Same blog template and theme as Dailyartikulo.	[163]
+thedailysentry.net	Publishes false and misleading news constantly.
+dailyviralhub.altervista.org	Biggest traffic generators: Facebook pages Marcos Loyalist, Exclusive DDS Marcos the 3rd Force, and BongBong Marcos United. Wordpress error.	[170]
+dakila.info	Now a furniture spam blog.	[171]
+ddsfiles.xyz	Down	[172][173]
+dedma.com	Front page now empty. Domain still up.	[155]
+definitelyfilipino.com
+news.definitelyfilipino.net
+balita.definitelyfilipino.com
+buzz.definitelyfilipino.com
+buzz.definitelyfilipino.net
+dugongmaharlika.com	Front page blank, has JavaScript	[150]
+du30gov.com	Biggest traffic generators on social media: President Rody Duterte - Federal Movement International, Bongbong Marcos Loyalists Movement_Official Group and Marcos Loyalist. Down.	[174]
+du30newsinfo.com	Domain expired	[155]
+du30today.com	Cybersquatted	[151]
+dutertards.info	Down	[154]
+du30community.info	Biggest social media traffic generators: President Duterte Worldwide Supporters, President Duterte Astig Supporters and Ferdinand Emmanuel Edralin Marcos. Down.	[142][175]
+dutertedefender.com	Cybersquatted	[151]
+du30express.site	Down	[176]
+dutertefederal.info	Biggest traffic generators on social media: Silent No More PH, Duterte Worldwide Supporters and President RodyDuterte - Federal Movement International. Down.	[177]
+dutertenews.com (blank w/ JavaScript)
+du30news.com (squatted)
+du30news.net (down)
+www.dutertenewswatch.com (down)
+du3onews.info (down)
+du30newsblog.blogspot.com		[161]
+du30newsinfo.com	Contains fake articles and satirical news passed off as real news. Publishes fake articles about Rodrigo Duterte's critics. Cybersquatted.	[161]
+dutertetrendingnews.blogspot.com		[146]
+dutertepilipinas.info	Biggest social media traffic generators: Inday Sara Duterte Supporters, President Rodrigo Duterte and Duterte Warriors. Facebook: https://www.facebook.com/Soliddutertemarcos/	[178]
+dutertetrend.info	Domain expired	[155]
+dutrending.info	Largest traffic generators: Facebook pages DU30 Trending News, Duterte Worldwide Supporters and Alan Peter Cayetano Supporters International. Down.	[154][179]
+www.dyaryo.net	Down.	[161]
+dutertedefender.com (cybersquatted)
+lugto.com (up)
+jazznews.top	Biggest traffic generator from social media: Facebook page Philippine Trending News. Down.	[180]
+extremereaders.com	404	[161]
+filipinewsph.net	"FilipiNews PH does not make any warranties about the completeness, reliability and accuracy of this information.". Now down.	[149][161][181][146]
+filipinews.info
+filipinews.com
+
+Down.	[146][151]
+France 24 TV	France24-tv.com	Cybersquatted. Imitates France 24 (france24.com)	[155]
+Global News	globalnews.favradio.fm	Reverted to favradio.fm hosting	[155]
+GMA TV	gma-tv.com	Imitates GMA 7. Now Down.	[182]
+Go For Win	goforwin.info		[154]
+Good News Network Philippines	goodnewsnetworkph.com	Now down. Mocha Uson made a callout to follow its Facebook page as "a true alternative for the good news released by the Duterte Admin" in February 2018.[183] Biggest traffic generators: pro-Duterte Facebook page managed by Mocha Uson, Mocha Uson Blog, President Rody Duterte Facebook Army and Team Duterte for Federalism.	[184][185][186][187][188][189]
+Good News Today	goodnewstoday.d30.club	Biggest traffic generators from social media: Marcos Defenders Worldwide Unlimited and Rody R. Duterte Movement Universal	[190]
+Gossip Diary	gossipdiary.com	Biggest traffic generators on social media: President Rody Duterte - Federal Movement International, Marcos Loyalist and Alan Peter Cayetano Supporters International	[191]
+GRPundit	grpshorts.blogspot.com		[146]
+Hot News Philippines	hotnewsphil.blogspot.com		[161]
+I Am Pilipino	www.iampilipino.com		[161]
+International Latest Updates	internationallatestupdates.blogspot.com	Redirect from trendingnewsphfile.net.	[161]
+Kabalita Ka	kabalitaka.blogspot.com	Biggest traffic generators on social media: Marcos Loyalist and President Rody Duterte Facebook Army	[192]
+Kalye Pinoy	kalyepinoy.com	Now Down/Under Construction.	[161][181]
+Kanto News PH	kantonewsph.xyz
+kantonewsph.info
+
+Biggest traffic generators on social media: Facebook pages President Rody Duterte - Federal Movement International, President Duterte Worldwide Supporters and President Duterte Astig Supporters.	[193][148][154]
+Latest Duterte News	latestdutertenews.altervista.org	Account suspended	[155]
+Leak News PH	www.leaknewsph.com		[161]
+Local Hero	localhero.altervista.org	Account suspended	[155]
+Maharlika News	www.maharlikanews.com		[150]
+Makibalita	makibalita.info		[194]
+Media Curious	mediacurious.com		[151]
+Media Ph	mediaph.info	Biggest traffic generator: Facebook page Sara Duterte Solid Warriors	[195]
+Minda Nation	mindanation.com	Owned by Carlos Munda	[196]
+My News TV	mynewstv.newsgenic.com	Down	[146]
+My Prosper	my-prosper.press		[197]
+Nagbabagang Balita	nagbabagangbalita.info		[198]
+Napankamkumametbeewan.info	napankamkumametbeewan.info		[194][198]
+Net Citizen	netcitizen.co		[151]
+Netizens PH	www.maharlikanews.com	Down	[196]
+News 8 Bureau	globalnews.favradio.fm		[146]
+News Center Ph	newscenterph.info	Traffic largely generated by Facebook pages President Rody Duterte - Federal Movement International, Marcos Loyalist, BongBong Marcos United, The Filipino News, Pinas Citizen and News Wire PH.	[199][167][200]
+News Feed Society	www.newsfeedsociety.tk		[161]
+News Global	newsglobal.top	Now redirects to www.pinoyhopes.info	[163]
+News Info Learn	newsinfolearn.com	"...www.newsinfolearn.com does not make any warranties about the completeness, reliability and accuracy of this information...". Now down.	[149][146]
+News Media PH	newsmediaph.com	No about Us.	[161]
+Newspaper Ph	newspaperph.com	Domain parked/cybersquatted	[155]
+News Titans	newstitans.com		[161]
+News TV	newstv.tulfonews.com	Down.	[146]
+News TV5	newstv5.com	Masquerades as the legitimate https://news.tv5.com.ph , domain expired	[155]
+Newz Flash	newzflash.info		[154]
+Newsbite.top	newsbite.top	Biggest traffic generators on social media: President Rody Duterte - Federal Movement International, Marcos Loyalist and We Support Duterte Administration	[201]
+Okd2.com	okd2.com	Lied in About Us about being a research project by De La Salle University – Dasmariñas. DLSU Das Dasmariñas disowned the site. Contains annoying popups.	[155]
+Online Balita	onelinebalita.xyz		[148]
+Philippine News Blog	ilikeyouquotes.blogspot.com		[161]
+Philippine News Courier	philnewscourier.blogspot.com	associated with Facebook page "Philippine News Courier."	[146][155]
+Philippine News Portal	www.philnewsportal.com		[161]
+Philnewstrend	dakilanglahi.info		[151]
+Phnewspride	Phnewspride.blogspot.com		[155]
+Pilipinas News	fullnewsph.xyz		[202]
+Pilipinas Online Updates	www.pilipinasonlineupdates.com	Takes some of its articles from Balitang Pinas. "Pilipinas Online Updates makes no representations, warranties, or assurances as to the accuracy, currency or completeness of the content contain (sic) onthis website or any sites linked to this site"	[181]
+Pinoy Hopes	pinoyhopes.info	Redirected from newsglobal.top	[163]
+Pinoy News	pinoynews.info		[142][154][163]
+Pinas News Portal	pinasnewsportal.blogspot.com		[146]
+Pinoy Freedom Wall	pinoyfreedomwall.com		[161]
+Pinoy News Blogger	pinoynewsblogger.blogspot.com		[161]
+Pinoy Speak	pinoyspeak.info	Posts satirical articles and passes them off as real news.	[161]
+Pinoy Viral Issues	pinoyviralissues.net	Down.	[146]
+Pinoy World	pinoyworld.net	Down.	[146]
+PRRD News	phppoliticsnews.blogspot.com		[161]
+Pinoy Observer	pinoyobserver.com	Front page is blank, but full of JavaScript. Triggers anti-virus malware warning.	[155]
+Pinoy Thinking	pinoythinking.info		[151]
+Pinoy Trending	pinoytrending.altervista.org	No about us, contact info.	[149][181]
+Pinoy Trending News	pinoytrendingnews.net
+pinoytrendingnewsph.blogspot.com pinoytrending.altervista.org
+
+"...Information on this site may contain errors and inaccuracies..."	[149][181][146]
+Pinoy Viral Issues	pinoyviralissues.net		[161]
+PRRD News Tambayan	dds-tambayan.info	Biggest traffic generator: Alan Peter Cayetano Supporters International social media page	[203]
+Public Trending	publictrending.net (down)
+publictrending.news
+
+pinoytrending.altervista.org
+
+"...The owner of this blog makes no representations as to the accuracy or completeness of any information on this site or found by following any link on this site."	[149][146]
+QWAZK	qwazk.blogspot.com		[161]
+So Whats News	sowhatsnews.wordpress.com	Satirical news site	[204]
+Socialcastph.info	socialcastph.info	Biggest traffic generator pages from social media: President Rodrigo Duterte, Marcos Loyalist and Alan Peter Cayetano Supporters International	[205]
+Social News PH	www.socialnewsph.com	Connected to the Facebook pages SNP – Social News Philippines and President Duterte Random Photos. "...does not give assurances as to the accuracy, completeness and currency of its content..." Now down.	[161]
+Taho News	tahonews.com		[161]
+Tartey Viral	tartey.com	Contains articles obtained from News Trend PH, which also publishes fake news. No About US, no Contact Us. "makes no representations, warranties, or assurances as to the accuracy or completeness of the content"	[161]
+Telegraph TV	telegraph-tv.com	Imitates British newspaper The Telegraph (telegraph.co.uk). Now cybersquatted.	[155]
+Tatak Du30	tatakdu30.info		[154]
+The News Feeder	thenewsfeeder.net		[146]
+The Volatilian	thevolatilian.com		[161]
+Thinker Vlog	thinkervlog.top		[175]
+Thinking Pinoys	thinkingpinoys.info	Imitates RJ Nieto's website, Thinking Pinoy. Now cybersquatted.	[155]
+Thinking Pinoy	thinkingpinoy.net
+thinkingpinoynews.info
+
+Opinion blog founded by RJ Nieto.	[206][196]
+Today in Manila	todayinmanila.ga	No About Us, no Contact Us. Now down.	[149][146]
+Today's Broadcast	todaysbroadcast.net	Currently empty page.	[146]
+Todays Top News	todaystopnews.xyz		[148]
+Trending Balita	trendingbalita.info	Now Down/Under Construction.	[161]
+Trending News Portal	tnp.ph
+trendingnewsportal.com
+
+trendingnewsportal.net
+
+trendingnewsportal.net.ph
+
+trendingnewsportal.blogspot.com
+
+trendingnewsportal-ph.blogspot.com
+
+tnp.today
+
+"Trending News Portal makes no representations, warranties, or assurances as to the accuracy, currency or completenesss of the content contain on this website or and sites linked to this site". Changed URLs multiple times. Frequently shared by Mocha Uson on her Facebook page Mocha Uson Blog.[207] Run by Twinmark Media Enterprises, whose entire network of pages was banned by Facebook in January 2019 for spammy practices and "coordinated inauthentic behavior". 220 Facebook pages, 73 Facebook accounts and 29 Instagram accounts were removed.[208][209]	[149][161][207]
+Trending News Video	trendingnewsvideo.com	Down.	[146]
+Trending Topics	trendingtopics.altervista.org	Suspended.	[146]
+Trending Viral	trendingviral.tk	"The owner of this blog makes no representations as to the accuracy or completeness of any information on this site.... will not be liable for any errors or omissions in this information nor the availability of this information...". Now down.	[149][146]
+TV CNN	tv-cnn.com	Masquerades as CNN. Legitimate URLs are cnn.com, edition.cnn.com (for CNN International), and cnnphilippines.com	[151]
+Unang Hirit	unanghirit.info		[194]
+Update.ph	update.ph		[146]
+Updated Tayo	updatetayo.info		[210]
+Verified Philippines	verifiedph.blogspot.com		[146]
+Viral Duterte News	balitangtotoo.xyz	Traffic generated by Facebook groups President Rodrigo Duterte Facebook Army, Inday Sara Duterte Supporters and President Rody Duterte - Federal Movement International	[211]
+Viral Portal	viralportal.ml		[146]
+World Trends	worldstrends.info		[156]
+XOLXOL	xolxol.ph
+
+# Community Einsendungen
+# --------------------------
+gufopyce.xyz
